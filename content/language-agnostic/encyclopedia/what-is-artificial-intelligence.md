@@ -13,17 +13,9 @@ Catalog Content:
   - "https://www.codecademy.com/learn/paths/build-deep-learning-models-with-tensorflow"
 ---
 
-Artificial Intelligence (AI) refers to both the study of intelligent agents and to the intelligent agents themselves. An "intelligent agent" is any device designed to achieve some goal, receive information from its environment as input and output a response that maximizes success of achieving said goal. 
+The definition of Artificial Intelligence (AI) is a subject of debate. Artificial Intelligence refers to a machine's ability to "think" or perform functions that typically depend on human-like intelligence, and Artii
 
-Currently, AI can be categorized into three groups: narrow, general, and super artificial intelligences.
 
-### AI Categories
-
-- Artificial Narrow Intelligence (ANI) or Weak AI, are systems that are considered the least computationally potent AI. These systems include much of the contemporary machine learning and deep learning models with singular and narrowed functions such as Object Classification and Speech Recognition.
-
-- Artificial General Intelligence (AGI) or Strong AI, are systems that would pass the Turing Test, with an intelligence that produces outputs that are indistinguishable from that of an adult human being. As of publication, no publicly known AGI have been developed.
-
-- Artificial Super Intelligence (ASI) or Superintelligence, is another form of AI yet to be developed that contains an intelligence that can produce outputs that would vastly surpass the capacity of a human being.
 
 ### History
 
