@@ -13,7 +13,7 @@ Catalog Content:
   - "https://www.codecademy.com/learn/paths/build-deep-learning-models-with-tensorflow"
 ---
 
-The definition of Artificial Intelligence (AI) is a subject of debate. Artificial Intelligence refers to a machine's ability to "think" or perform functions that typically depend on human-like intelligence, and Artii
+The definition of Artificial Intelligence (AI) is a subject of debate. Artificial Intelligence typically refers to a machine's ability to "think" or perform functions that typically depend on human-like intelligence. In the broadest sense, AI is any computational process designed to mimic a human behaviors that require a response to an external stimulus. 
 
 
 
